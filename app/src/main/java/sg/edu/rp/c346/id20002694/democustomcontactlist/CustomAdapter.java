@@ -46,6 +46,7 @@ public class CustomAdapter extends ArrayAdapter {
 
         if(currentItem.getGender()=='F'){
             ivGender.setImageResource(R.drawable.female);
+            //clement
         }
         else{
             ivGender.setImageResource(R.drawable.male);
